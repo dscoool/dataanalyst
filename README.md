@@ -1,4 +1,4 @@
-# 데이터분석가 & 인사이트
+# 5 days course to be a Data Analyst
 
 [태블로 대시보드 예제](https://public.tableau.com/app/search/vizzes/water)
 
