@@ -1,5 +1,6 @@
 # 5 days course to be a Data Analyst
-
+## 데이터분석 인사이트 찾기 5일 완성!!
+#### 태블로, 빅데이터, 시각화, 대시보드, 데이터분석가, 전문가
 [태블로 대시보드 예제](https://public.tableau.com/app/search/vizzes/water)
 
 1. 태블로 퍼블릭 다운로드 + 설치
