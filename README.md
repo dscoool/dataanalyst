@@ -23,6 +23,7 @@
 
 
 [예제 3] 국가강수량 통계
+[동영상강의](https://youtube.com/playlist?list=PLwRB9f1wGHYph1B0_WiZ3qXQUIa1JhZ07&si=u0ofzoaWLQgsSuZa)
 
 [구글sheet 데이터](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vTNutuRI0udcAzYut0WcPuVVLTw4R4P8kBjStboZGsMe2zw5L0hy4GWIvoskv1Qt5UvyeWWq3iBTc43/pubhtml)
 
