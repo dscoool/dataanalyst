@@ -38,3 +38,8 @@ B. 하이라이트 테이블
 
 [Reference | 실습 Video](https://www.youtube.com/watch?v=wKns9f0wYrM&feature=youtu.be)
 
+
+
+## Tableau 자격증
+[Tableau 자격증](https://www.tableau.com/ko-kr/learn/certification)
+
