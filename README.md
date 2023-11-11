@@ -32,7 +32,11 @@ https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL9901&vw_cd=MT_GTITLE
 [Referenche] https://www.youtube.com/watch?v=guu0aVjMNDc
 
 [예제 4] 트리맵 차트
-
+A. 트리맵
 [Reference Video] https://www.youtube.com/watch?v=J6qXHut3_XA&feature=youtu.be
 
+B. 하이라이트 테이블
+[Highlight Table] https://public.tableau.com/app/profile/jaemin.jeong/viz/_16886961574540/sheet2
+
+[Reference Video] https://www.youtube.com/watch?v=wKns9f0wYrM&feature=youtu.be
 
